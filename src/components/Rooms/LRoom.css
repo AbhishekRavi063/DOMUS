@@ -1,0 +1,114 @@
+.rrmain{
+    background-color: #083835;
+    height: auto;
+    margin-top: -25px;
+    margin-left: -10px;
+    width: auto;
+}
+.rrimg{
+    height: 300px;
+}
+.rrmain{
+    background-color: #083835;
+    height: 1100px;
+    margin-top: -25px;
+    margin-left: -10px;
+    width: 1550px;
+}
+.rimg{
+    height: 250px;
+    width: 350px;
+    display: block;
+    margin: auto;
+    border-radius: 10px;
+}
+.rt{
+    color: white;
+    font-size: 30px;
+    max-width: 50px;
+    margin-left: 50px;
+    padding-top: 170px;
+    
+}
+.rim{
+    
+    height: 350px;
+    width: 1500px;
+    
+    
+}
+.comp{
+    width: 600px;
+    height: 90px;
+    background-color: #0b4d48 ;
+    border-radius: 10px;
+    border: 1px solid #61FCB1;
+    margin: auto;
+    margin-top: 50px;
+    display: flex;
+}
+.outer{
+    margin: auto;
+    display: block;
+}
+
+.c{
+    color: white;
+    padding-left: 30px;
+    padding-top: 10px;
+    font-size: 20px;
+}
+
+.rc{
+    color: white;
+   margin-left: 70px;
+    
+}
+.b{
+    width: 250px;
+    margin-left: 180px;
+}
+.on{
+    background-color: #61FCB1;
+    height: 10px;
+    width: 60px;
+    margin: auto;
+   display: block;
+   
+}
+.rm{
+    background-color: #33615E;
+    height: 170px;
+    width: 260px;
+    border-radius: 10px;
+    border: 2px solid #61FCB1 ;
+    margin-left: 20px;
+}
+.cr{
+    margin-top: 100px;
+}
+.chh{
+    color: white;
+   text-align: center;
+   padding-top: 60px;
+   font-size: 30px;
+}
+.add{
+    display: block;
+    margin: auto;
+    margin-top: 80px;
+    background-color: #61FCB1;
+    border: none;
+    height: 40px;
+    width: 200px;
+    border-radius: 10px;
+    font-weight: 300;
+    font-size: 20px;
+}
+
+@media screen and (max-width:768px) {
+.comp{
+  width: 700px;
+}
+
+}

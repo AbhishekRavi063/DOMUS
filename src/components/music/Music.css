@@ -1,0 +1,56 @@
+.Mmain{
+    background-color: #083835;
+    height: 1500px;
+
+}
+.Mh{
+    text-align: center;
+    padding-top: 70px;
+    color: #61FCB1;
+}
+.app{
+    color: white;
+    margin-left: 280px;
+    margin-top: 50px;
+}
+.spotify{
+    background-color: #33615E;
+    width: 800px;
+    display: block;
+    margin: auto;
+    text-align: center;
+    border-radius: 10px;
+    height: 60px;
+    margin-top: 30px;
+}
+.spot{
+    color: white;
+    padding-top: 10px;
+}
+.mb{
+    background-color: #33615E;
+    height: 100px;
+    width: 100px;
+    margin-left: 300px;
+    margin-top: 40px;
+    border-radius: 10px;
+    border: 5px solid #61FCB1;
+}
+.r{
+    display: flex;
+}
+.ls{
+    margin-left: 50px;
+    margin-top: 60px;
+    color: white;
+}
+.minp{
+    background-color: #33615E;
+    border: none;
+    border-radius: 10px;
+    margin: auto;
+    display: block;
+    width: 700px;
+    height: 100px;
+    margin-top: 40px;
+}

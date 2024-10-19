@@ -1,0 +1,19 @@
+.Smain{
+    background-color: #083835;
+    height: auto;
+}
+.suser{
+    color: white;
+    text-align: center;
+    margin-top: 40px;
+}
+.sinp{
+    background-color: #33615E;
+    border: none;
+    border-radius: 10px;
+    width: 600px;
+    height: 50px;
+    margin: auto;
+    display: block;
+    margin-top: 20px;
+}

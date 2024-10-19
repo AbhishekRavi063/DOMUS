@@ -1,0 +1,19 @@
+.umain{
+    background-color: #083835;
+    height: 800px;
+}
+.col{
+    margin-top: 50px;
+}
+.user{
+    background-color: #33615E;
+    border: none;
+    border-radius: 10px;
+    height: 60px;
+    margin: auto;
+    margin-top: 30px;
+    display: block;
+    color: white;
+    width: 600px;
+    
+}

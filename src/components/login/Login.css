@@ -1,0 +1,54 @@
+.lmain{
+    background-image: url("../../assets/main.jpg");
+    height: 800px;
+    margin-top: -40px;
+    
+}
+
+.lh{
+    justify-content: center;
+    text-align: center;
+    padding-top: 150px;
+    font-size: 70px;
+    color: rgb(10, 98, 10);
+}
+.ln{
+   margin-left: 500px;
+    padding-top: 20px;
+    color: black;
+}
+.linp{
+    display: block;
+    margin: auto;
+    width: 500px;
+    border-radius: 10px;
+    border: none;
+    height: 40px;
+}
+.lf{
+    color: black;
+    text-align: center;
+    margin-top: 20px;
+}
+.lbtn{
+    display: block;
+    margin: auto;
+    height: 40px;
+    width: 200px;
+    border: none;
+    border-radius: 10px;
+    background-color: #61FCB1;
+    margin-top: 20px;
+}
+.lnew{
+    display: block;
+    margin: auto;
+    margin-top: 40px;
+    width: 400px;
+    border-radius: 10px;
+    border: none;
+    height: 40px;
+    font-size: large;
+    text-align: center;
+    
+}
